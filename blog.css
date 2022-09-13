@@ -1,0 +1,25 @@
+body {margin-left: 20%;
+		margin-right: 20%;
+		border: 20px #bdc3c7 solid;
+		font-family: source sans pro;}
+
+h1 {margin: 3%;
+	font-size: 15px;
+	color: #3498db;
+	letter-spacing: 2px;}
+
+h2 {margin: 3%;
+	color: #2c3e50;
+	font-size: 20px;}
+
+p {margin: 3%;
+	margin-bottom: 4%}
+
+hr {border: 1px solid grey;
+	margin: 20px;}
+
+.break {border-left: 5px grey solid;
+		padding-left: 5px;}
+   
+
+
